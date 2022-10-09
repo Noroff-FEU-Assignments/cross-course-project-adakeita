@@ -34,3 +34,12 @@ font-size: 180%;
     line-height: 145%;
 
 }
+
+footer {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    margin-top: 6%;
+    margin-bottom: 1%;
+}
